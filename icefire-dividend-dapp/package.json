@@ -1,0 +1,9 @@
+{
+  "name": "icefire-dividend-dapp",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Ice Fire LP dividend claim dapp",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
